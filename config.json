@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smssarse",
+        "uuid": 23744110,
+        "checksum": "ota52p"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
